@@ -7,3 +7,4 @@ Today was the first day I actually started working on the hardware and how this 
 
 ---wireless connection hopefully working 
 -Wireless connection done, calling it a sucessful day
+learned to do sudo shutdown -h now to safely shut down the system instead of just flicking the off switch

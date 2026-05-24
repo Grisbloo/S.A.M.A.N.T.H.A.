@@ -6,3 +6,4 @@ Today was the first day I actually started working on the hardware and how this 
 --- Using google gemini initally to figure all this out
 
 ---wireless connection hopefully working 
+-Wireless connection done, calling it a sucessful day

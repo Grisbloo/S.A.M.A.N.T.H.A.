@@ -9,10 +9,14 @@ Timeline of events:
 Minute before alarm needs to go off
 - Raspberry Pi turns on via the HAT, sends a fetch request to Google Gemini API to ask for daily brief
 - prepares itself to give the user information and bundles everything waiting for alarm to activate
+
 Alarm goes off
+
 - Raspberry pi runs script to keep the microphone on to allow shut off of alarm via commands such as "Stop", or "Turn off the alarm"
 - Raspberry pi also sends the text package into its text to speech function and converts the daily brief from the API to wake the user up
+
 7 or so minutes after the user has shut off the alarm
+
 - Rf transmitter is activated to open the garage door
 
 Side objective:

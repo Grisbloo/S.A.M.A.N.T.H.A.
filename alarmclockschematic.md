@@ -2,7 +2,7 @@ Objective:
 Wake up user and open garage door using raspberry pi
 
 Required hardware: 
-Rasberry Pi 4B, GIPO speaker and Microphone, GIPO button, connection to an already set up LLM api to provide daily brief, rf transmitter, hat with clock to control power and actual alarm values
+Rasberry Pi 4B, GIPO speaker and Microphone, GIPO button, connection to an already set up LLM api to provide daily brief, rf transmitter, HAT with clock to control power and actual alarm values
 
 Timeline of events: 
 
@@ -12,7 +12,7 @@ Minute before alarm needs to go off
 
 Alarm goes off
 
-- Raspberry pi runs script to keep the microphone on to allow shut off of alarm via commands such as "Stop", or "Turn off the alarm"
+- Raspberry pi runs script to keep the microphone on to allow shut off of alarm via commands such as "Stop", or "Turn off the alarm" (Possible more verbal options)
 - Raspberry pi also sends the text package into its text to speech function and converts the daily brief from the API to wake the user up
 
 7 or so minutes after the user has shut off the alarm
@@ -20,4 +20,4 @@ Alarm goes off
 - Rf transmitter is activated to open the garage door
 
 Side objective:
-- Use RF transmitter to have an internal garage door opener (have a small function perhaps connected to a button that opens the garage door
+- Use RF transmitter to have an inside-the-house garage door opener (have a small function perhaps connected to a button that opens the garage door)

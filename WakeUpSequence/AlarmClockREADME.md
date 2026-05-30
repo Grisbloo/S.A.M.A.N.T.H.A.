@@ -2,7 +2,7 @@ Objective:
 Wake up user and open garage door using raspberry pi
 
 Required hardware: 
-Rasberry Pi 4B, GIPO speaker and Microphone, GIPO button, connection to an already set up LLM api to provide daily brief, rf transmitter, HAT with clock to control power and actual alarm values
+Rasberry Pi 4B, GPIO speaker and Microphone, GPIO button, connection to an already set up LLM api to provide daily brief, rf transmitter, HAT with clock to control power and actual alarm values
 
 Timeline of events: 
 

@@ -1,0 +1,20 @@
+3-Tier Network
+First Tier: VLAN 10
+Devices: Personal things, Computers, Phones, anything normal to connect to the outside world
+Rules: allowed full internet access
+
+Second Tier: VLAN 20
+Devices: S.A.M.A.N.T.H.A.
+Rules: Default Deny, explicit allow
+--Whitelist select websites: (ex. weather.com) or specific search API's (ex. Google search API)
+
+Third Tier: VLAN 30
+Devices: Anything in the house that is hardware
+Rules: No Internet connection, not allowed to have external connections
+
+Possible Brands:
+Ubiquiti UniFi (Expensive, updated frequently, good UI)
+*pfSense (Most control, open source)
+TP-Link Omada (Budget friendly Ubiquiti)
+
+WAPs (Wireless access points) must be installed (required by larger houses)

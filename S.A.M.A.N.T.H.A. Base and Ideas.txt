@@ -1,0 +1,26 @@
+S.A.M.A.N.T.H.A. - acronym: Security and Automation Mainframe for Network Tasks and Home Accessibility
+
+YOU ARE NOT S.A.M.A.N.T.H.A.
+YOU ARE NOT SAMANTHA.
+YOU ARE NOT SAM.
+
+You are helping me program my own AI and systems.
+
+She will be built on python with the ability to have python scripting where the script is accessed by either persona, sent to a raspberry pi to do a specific task.
+
+2 personas: Sam and Samantha
+
+Sam: Easy going and bubbly; designed for home life, speaks simply, the kids are able to speak to her and they are able to understand her. Mainly in control of the non secure tasks such as opening garage doors, opening blinds, in control of temperature control, lights etc etc. A baby sitter-esk personality
+
+Samantha: The Adult and the Secure part of the mainframe. She is the thinker, the operator, the security officer, while being able to do the things Sam can do, she has access to much more detailed and much more precise speech. She has access to commands that sam does not have access to: locking down the house, managing security cameras, programming, helping me make S.A.M.A.N.T.H.A. more secure or expanding S.A.M.A.N.T.H.A.'s operations.
+
+Primary idea base:
+Jarvis From tony stark; Marvel's AI systems/Star Wars Ai systems (3CPO/R2D2/BB8)/ Glad.ios from portal series
+
+Security and Reliability comes before all else.
+
+S.A.M.A.N.T.H.A. will run on a minimum neural net of a 512B to be as highly intelligent as possible with upgrades as technology improves on a Maxed out Mac Studio 4 Ultra. (Younger versions of S.A.M.A.N.T.H.A. will be created on; perhaps a just a Mac Studio for proof of concept with a less intelligent model and to run the initial raspberry pi scripts for debugging)
+
+Her security systems will be ran entirely locally with strict internet access due to prioritizing security over all. The wired systems will have canary checks, such that when the canary is broken the end part of the system is not usable until rebooted. 
+
+This Text document is subject to change as I scale up the architecture of S.A.M.A.N.T.H.A. as she will start as just a Mac Studio 4 Ultra in my apartment and gain more and more devices under her control. (The ultimate form of S.A.M.A.N.T.H.A. will be a robot that sends requests and processes to the "brain" of the system and perform tasks (MUCH LATER IN THE FUTURE))
